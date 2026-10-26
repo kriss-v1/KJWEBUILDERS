@@ -1,0 +1,3 @@
+# KJWEBUILDERS
+## is an AI-powered website builder for small businesses in Rwanda and beyond. An owner answers a few questions about their business, picks a design, and the platform writes the content, builds the site and publishes it — in about the time it takes to drink a coffee. No coding, no designer and no agency fees.
+### Small businesses are the backbone of the economy, yet most still run on phone calls and WhatsApp messages with no online presence. We give them a professional website, a booking and payment path they already trust, and tools to keep customers coming back, at a price a barber or a market stall can afford.
